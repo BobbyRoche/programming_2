@@ -1,0 +1,199 @@
+C:\Users\Bobby\PycharmProjects\hw3_directory\venv\Scripts\python.exe C:/Users/Bobby/PycharmProjects/hw3_directory/adventure.py
+Welcome to the adventure!
+
+What is the hero's name?
+Link
+How many enemies do you want to battle?
+4
+You will fight: Darth Vader
+Link's health: 100/100
+Remaining: 6 potions and 10 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Link uses fireball!
+Darth Vader used saber slash on you!
+Link's health: 92/100
+Remaining: 6 potions and 9 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Link uses fireball!
+Darth Vader used force choke on you!
+Link's health: 82/100
+Remaining: 6 potions and 8 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Link uses fireball!
+Darth Vader used force choke on you!
+Link's health: 72/100
+Remaining: 6 potions and 7 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+sword
+Link uses the sword!
+
+You have defeated Darth Vader
+
+
+You will fight: Darth Vader
+Link's health: 72/100
+Remaining: 6 potions and 7 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Link uses a potion!
+Darth Vader used force choke on you!
+Link's health: 82/100
+Remaining: 5 potions and 7 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Link uses fireball!
+Darth Vader used force choke on you!
+Link's health: 72/100
+Remaining: 5 potions and 6 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Link uses fireball!
+Darth Vader used force choke on you!
+Link's health: 62/100
+Remaining: 5 potions and 5 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+sword
+Link uses the sword!
+Darth Vader used saber slash on you!
+Link's health: 54/100
+Remaining: 5 potions and 5 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+sword
+Link uses the sword!
+Darth Vader used saber throw on you!
+Link's health: 49/100
+Remaining: 5 potions and 5 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+sword
+Link uses the sword!
+
+You have defeated Darth Vader
+
+
+You will fight: Drogon
+Link's health: 49/100
+Remaining: 5 potions and 5 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Link uses a potion!
+Drogon has breathed fire on you!
+Link's health: 59/100
+Remaining: 4 potions and 5 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Link uses a potion!
+Drogon has breathed fire on you!
+Link's health: 69/100
+Remaining: 3 potions and 5 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+sword
+Link uses the sword!
+Drogon has breathed fire on you!
+Link's health: 59/100
+Remaining: 3 potions and 5 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+shield
+Link uses the shield!
+Drogon has breathed fire on you!
+Link's health: 54/100
+Remaining: 3 potions and 5 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+shield
+Link uses the shield!
+Drogon has breathed fire on you!
+Link's health: 49/100
+Remaining: 3 potions and 5 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+sword
+Link uses the sword!
+Drogon has breathed fire on you!
+Link's health: 39/100
+Remaining: 3 potions and 5 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+sword
+Link uses the sword!
+Drogon has breathed fire on you!
+Link's health: 29/100
+Remaining: 3 potions and 5 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Link uses fireball!
+Drogon has breathed fire on you!
+Link's health: 19/100
+Remaining: 3 potions and 4 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Link uses a potion!
+Drogon has breathed fire on you!
+Link's health: 29/100
+Remaining: 2 potions and 4 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Link uses a potion!
+Drogon has breathed fire on you!
+Link's health: 39/100
+Remaining: 1 potions and 4 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Link uses a potion!
+Drogon has breathed fire on you!
+Link's health: 49/100
+Remaining: 0 potions and 4 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+sword
+Link uses the sword!
+Drogon has breathed fire on you!
+Link's health: 39/100
+Remaining: 0 potions and 4 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Link uses fireball!
+
+You have defeated Drogon
+
+
+You will fight: Brudah
+Link's health: 39/100
+Remaining: 0 potions and 3 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Link uses fireball!
+Brudah spit acid on you!
+Link's health: 33/100
+Remaining: 0 potions and 2 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Link uses fireball!
+
+You have defeated Brudah
+
+
+Congratulations you have emerged victorious!

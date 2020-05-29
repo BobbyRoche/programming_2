@@ -1,0 +1,107 @@
+C:\Users\Bobby\PycharmProjects\hw3_directory\venv\Scripts\python.exe C:/Users/Bobby/PycharmProjects/hw3_directory/adventure.py
+Welcome to the adventure!
+
+What is the hero's name?
+Shrek
+How many enemies do you want to battle?
+2
+You will fight: Brudah
+Shrek's health: 100/100
+Remaining: 6 potions and 10 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Shrek uses a potion!
+Brudah spit acid on you!
+Shrek's health: 114/100
+Remaining: 5 potions and 10 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Shrek uses a potion!
+Brudah spit acid on you!
+Shrek's health: 128/100
+Remaining: 4 potions and 10 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Shrek uses a potion!
+Brudah spit acid on you!
+Shrek's health: 142/100
+Remaining: 3 potions and 10 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Shrek uses a potion!
+Brudah spit acid on you!
+Shrek's health: 156/100
+Remaining: 2 potions and 10 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Shrek uses a potion!
+Brudah spit acid on you!
+Shrek's health: 170/100
+Remaining: 1 potions and 10 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Shrek uses a potion!
+Brudah spit acid on you!
+Shrek's health: 184/100
+Remaining: 0 potions and 10 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+You are out of potions!
+Brudah spit acid on you!
+Shrek's health: 178/100
+Remaining: 0 potions and 10 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Shrek uses fireball!
+Brudah spit acid on you!
+Shrek's health: 172/100
+Remaining: 0 potions and 9 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Shrek uses fireball!
+
+You have defeated Brudah
+
+
+You will fight: Drogon
+Shrek's health: 172/100
+Remaining: 0 potions and 8 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Shrek uses fireball!
+Drogon has breathed fire on you!
+Shrek's health: 162/100
+Remaining: 0 potions and 7 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Shrek uses fireball!
+Drogon has breathed fire on you!
+Shrek's health: 152/100
+Remaining: 0 potions and 6 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Shrek uses fireball!
+Drogon has breathed fire on you!
+Shrek's health: 142/100
+Remaining: 0 potions and 5 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Shrek uses fireball!
+
+You have defeated Drogon
+
+
+Congratulations you have emerged victorious!

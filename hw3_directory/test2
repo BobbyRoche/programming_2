@@ -1,0 +1,112 @@
+C:\Users\Bobby\PycharmProjects\hw3_directory\venv\Scripts\python.exe C:/Users/Bobby/PycharmProjects/hw3_directory/adventure.py
+Welcome to the adventure!
+
+What is the hero's name?
+Jon
+How many enemies do you want to battle?
+2
+You will fight: Darth Vader
+Jon's health: 100/100
+Remaining: 6 potions and 10 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+t
+Your command is invalid.
+Jon's health: 100/100
+Remaining: 6 potions and 10 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+sword
+Jon uses the sword!
+Darth Vader used saber throw on you!
+Jon's health: 95/100
+Remaining: 6 potions and 10 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Jon uses fireball!
+Darth Vader used force choke on you!
+Jon's health: 85/100
+Remaining: 6 potions and 9 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+shield
+Jon uses the shield!
+Darth Vader used saber slash on you!
+Jon's health: 81/100
+Remaining: 6 potions and 9 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potio
+Your command is invalid.
+Jon's health: 81/100
+Remaining: 6 potions and 9 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Jon uses a potion!
+Darth Vader used force choke on you!
+Jon's health: 91/100
+Remaining: 5 potions and 9 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+sword
+Jon uses the sword!
+Darth Vader used force choke on you!
+Jon's health: 81/100
+Remaining: 5 potions and 9 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Jon uses fireball!
+Darth Vader used force choke on you!
+Jon's health: 71/100
+Remaining: 5 potions and 8 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+shield
+Jon uses the shield!
+Darth Vader used force choke on you!
+Jon's health: 66/100
+Remaining: 5 potions and 8 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+sword
+Jon uses the sword!
+
+You have defeated Darth Vader
+
+
+You will fight: Darth Vader
+Jon's health: 66/100
+Remaining: 5 potions and 8 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Jon uses fireball!
+Darth Vader used force choke on you!
+Jon's health: 56/100
+Remaining: 5 potions and 7 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Jon uses fireball!
+Darth Vader used saber slash on you!
+Jon's health: 48/100
+Remaining: 5 potions and 6 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Jon uses fireball!
+Darth Vader used saber throw on you!
+Jon's health: 43/100
+Remaining: 5 potions and 5 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Jon uses fireball!
+
+You have defeated Darth Vader
+
+
+Congratulations you have emerged victorious!

@@ -1,0 +1,185 @@
+C:\Users\Bobby\PycharmProjects\hw3_directory\venv\Scripts\python.exe C:/Users/Bobby/PycharmProjects/hw3_directory/adventure.py
+Welcome to the adventure!
+
+What is the hero's name?
+Shrek
+How many enemies do you want to battle?
+4
+You will fight: Walker
+Shrek's health: 100/100
+Remaining: 6 potions and 10 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Shrek uses fireball!
+Walker bit you !
+Shrek's health: 92/100
+Remaining: 6 potions and 9 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+sword
+Shrek uses the sword!
+Walker bit you !
+Shrek's health: 84/100
+Remaining: 6 potions and 9 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+shield
+Shrek uses the shield!
+Walker bit you !
+Shrek's health: 80/100
+Remaining: 6 potions and 9 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Shrek uses fireball!
+
+You have defeated Walker
+
+
+You will fight: Drogon
+Shrek's health: 80/100
+Remaining: 6 potions and 8 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+sword
+Shrek uses the sword!
+Drogon has breathed fire on you!
+Shrek's health: 70/100
+Remaining: 6 potions and 8 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+shield
+Shrek uses the shield!
+Drogon has breathed fire on you!
+Shrek's health: 65/100
+Remaining: 6 potions and 8 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Shrek uses fireball!
+Drogon has breathed fire on you!
+Shrek's health: 55/100
+Remaining: 6 potions and 7 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+sword
+Shrek uses the sword!
+Drogon has breathed fire on you!
+Shrek's health: 45/100
+Remaining: 6 potions and 7 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+sword
+Shrek uses the sword!
+Drogon has breathed fire on you!
+Shrek's health: 35/100
+Remaining: 6 potions and 7 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Shrek uses a potion!
+Drogon has breathed fire on you!
+Shrek's health: 45/100
+Remaining: 5 potions and 7 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Shrek uses a potion!
+Drogon has breathed fire on you!
+Shrek's health: 55/100
+Remaining: 4 potions and 7 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Shrek uses fireball!
+
+You have defeated Drogon
+
+
+You will fight: Drogon
+Shrek's health: 55/100
+Remaining: 4 potions and 6 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+sword
+Shrek uses the sword!
+Drogon has breathed fire on you!
+Shrek's health: 45/100
+Remaining: 4 potions and 6 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Shrek uses fireball!
+Drogon has breathed fire on you!
+Shrek's health: 35/100
+Remaining: 4 potions and 5 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Shrek uses fireball!
+Drogon has breathed fire on you!
+Shrek's health: 25/100
+Remaining: 4 potions and 4 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Shrek uses a potion!
+Drogon has breathed fire on you!
+Shrek's health: 35/100
+Remaining: 3 potions and 4 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Shrek uses a potion!
+Drogon has breathed fire on you!
+Shrek's health: 45/100
+Remaining: 2 potions and 4 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Shrek uses a potion!
+Drogon has breathed fire on you!
+Shrek's health: 55/100
+Remaining: 1 potions and 4 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Shrek uses fireball!
+
+You have defeated Drogon
+
+
+You will fight: Walker
+Shrek's health: 55/100
+Remaining: 1 potions and 3 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+potion
+Shrek uses a potion!
+Walker bit you !
+Shrek's health: 67/100
+Remaining: 0 potions and 3 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Shrek uses fireball!
+Walker bit you !
+Shrek's health: 59/100
+Remaining: 0 potions and 2 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Shrek uses fireball!
+Walker bit you !
+Shrek's health: 51/100
+Remaining: 0 potions and 1 fireballs.
+
+Enter Command: sword shield fireball potion exit:
+fireball
+Shrek uses fireball!
+
+You have defeated Walker
+
+
+Congratulations you have emerged victorious!
